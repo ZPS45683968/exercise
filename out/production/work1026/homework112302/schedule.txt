@@ -1,5 +1,0 @@
-1,Sydney,Australia,New Zealand
-2,Melbourne,England,Afghanistan
-3,Brisbane,England,Australia
-4,Hobart,Bangladesh,Srilanka
-5,Sydney,Afghanistan,Australia
